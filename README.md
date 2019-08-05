@@ -1,3 +1,3 @@
 # RandomProjects
 
-Random projects and their solutions
+Projects I wanted to mess with
