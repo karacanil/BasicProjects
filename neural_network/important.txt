@@ -1,4 +1,0 @@
-If you are having a hard time displaying the jupyter notebook on github
-go to this link:
-https://nbviewer.jupyter.org/
-and then enter the link of the notebook you want to display
